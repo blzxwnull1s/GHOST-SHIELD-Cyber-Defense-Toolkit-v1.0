@@ -1,0 +1,1 @@
+sudo pacman -S curl jq nmap tor proxychains-ng torbrowser-launcher ufw fail2ban whois openssl
